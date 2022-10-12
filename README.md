@@ -1,1 +1,1 @@
-## Collection of Jupyter notebooks
+## My Personal Collection of some Jupyter notebooks
